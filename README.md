@@ -12,5 +12,7 @@ QOL minecraft mods I consider essential. This is here just so I don't forget abo
 - 3D Skin Layers https://github.com/tr7zw
 - Xaero's WorldMap https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 - Smooth Swapping https://www.curseforge.com/minecraft/mc-mods/smooth-swapping
+### To test
+- Extra Sounds https://www.curseforge.com/minecraft/mc-mods/extrasounds
 
 All that installed over Simply Optimized modpack https://modrinth.com/modpack/sop
