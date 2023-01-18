@@ -11,3 +11,5 @@ QOL minecraft mods I consider essential. This is here just so I don't forget abo
 - Not Enough Animations https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
 - 3D Skin Layers https://github.com/tr7zw
 - Xaero's WorldMap https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+
+All that installed over Simply Optimized modpack https://modrinth.com/modpack/sop
